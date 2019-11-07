@@ -2,7 +2,7 @@
 ## NAME-*NISHANT KUMAR*
 ## ROLL NO-*1915054*
 ## BRANCH-*COMPUTER SCIENCE*
-          ![LOGO](gndec-logo.jpg)
+##    ![LOGO](gndec-logo.jpg)
 # 1. Program to Display a Message
 ```C
 #include<stdio.h>
