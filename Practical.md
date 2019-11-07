@@ -57,7 +57,7 @@ Enter two integers: 12
 11
 12 + 11 = 23
 ```
-# 4.Program to Convert Celsius to Fahrenheit
+# 4.Program to Convert Celsius into Fahrenheit
 ```C
 #include<stdio.h>
 int main()
