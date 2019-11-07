@@ -3,7 +3,7 @@
 ## ROLL NO-*1915054*
 BRANCH-COMPUTER SCIENCE*
 ![LOGO](
-# 1.Program to Display a Message
+# 1. Program to Display a Message
 ```C
 #include<stdio.h>
 int main()
@@ -37,7 +37,7 @@ Harnaut
 Nalanda - 803110
 India  
 ```
-# 3.Program to Find the Sum of Two Number
+# 3. Program to Find the Sum of Two Number
 ```C
 #include <stdio.h>
 int main()
@@ -57,7 +57,7 @@ Enter two integers: 12
 11
 12 + 11 = 23
 ```
-# 4.Program to Convert Celsius into Fahrenheit
+# 4. Program to Convert Celsius to Fahrenheit
 ```C
 #include<stdio.h>
 int main()
@@ -76,7 +76,7 @@ Output of Program:
 Enter the temerature in Celsious : 37
 Temperatur in fahrenheit : 98.599998
 ```
-# 5.Program to Find the Area and Perimeter of Circle
+# 5. Program to Find the Area and Perimeter of Circle
 ```C 
 #include<stdio.h>
 int  main()
@@ -137,7 +137,7 @@ Output of Program:
 Enter any number:4
 It's an even number.
 ```
-# 8.Program to Find the Factorial of the Number
+# 8. Program to Find the Factorial of the Number
 ```C
 #include<stdio.h>
 int main()
@@ -189,7 +189,7 @@ fizz
 buzz
 ..........
 ```
-# 10.Program To Print Week of Days Using Switch Case 
+# 10. Program To Print Week of Days Using Switch Case 
 ```C
 #include <stdio.h>
 
@@ -235,7 +235,7 @@ Output of Program:
 Input week number(1-7): 2
 Tuesday
 ```
-# 11. Program to make a Calculator Using Switch Case 
+# 11. Program to Make a Calculator Using Switch Case 
 ```C
 #include<stdio.h>
 int main() {
@@ -377,7 +377,7 @@ Output of Program:
 Enter an integer: 1001
 1001 is a palindrome.
 ```
-# 15.Program to Fibonacci Series 
+# 15. Program to Fibonacci Series 
 ```C
 #include <stdio.h>
 int main()
@@ -403,7 +403,7 @@ Output of Program:
 Enter the number of terms: 10
 Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 
 ```
-# 16 Program to Print Simple Matrix in Array   
+# 16. Program to Print Simple Matrix in Array   
 ```C
 #include <stdio.h>
 int main() {
@@ -771,7 +771,7 @@ Product of entered matrices:-
 3	3	2	
 3	4	5
 ```
-# 17 Program to Find Squre of Number Using Function 
+# 17. Program to Find Squre of Number Using Function 
 ```C
 #include<stdio.h>
 
@@ -800,7 +800,7 @@ Output of Program:
 Enter your number:5
 Square of 5 is 25.
 ```
-# 18 Program to Swap Number by Call by Value 
+# 18. Program to Swap Number by Call by Value 
 ```C
 #include <stdio.h>
  
@@ -844,7 +844,7 @@ After Swapping
 x = 10
 y = 5
 ```
-# 19 Program to Swap Two Number by Call by Refernce 
+# 19. Program to Swap Two Number by Call by Refernce 
 ```C
 #include <stdio.h>
  
@@ -878,7 +878,7 @@ After Swapping
 First integer = 45
 Second integer = 23
 ```
-# 20 Program to Find Factorial of Number Using Recursion 
+# 20. Program to Find Factorial of Number Using Recursion 
 ```C
 #include<stdio.h>
 int find_factorial(int);
